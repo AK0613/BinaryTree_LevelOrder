@@ -100,5 +100,8 @@ bt.add(25)
 bt.add(6)
 bt.add(7)
 bt.add(69)
+bt.add(67)
+bt.add(71)
+bt.add(80)
 
 print(bt.level_order(bt.root))
